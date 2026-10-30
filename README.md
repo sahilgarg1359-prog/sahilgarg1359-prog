@@ -1,5 +1,43 @@
 # 💫 About Me:
-I am currently working as Full Stack developer Using .Net Rect and Azure
+I specialise in building scalable backend systems, cloud-native applications, REST APIs, and event-driven platforms that support business-critical operations. My experience spans the full software lifecycle—from solution design and development to production support, observability, and long-term application ownership.
+
+Over the years, I have worked extensively with Microsoft Azure, Azure DevOps, Terraform, SQL Server, Kafka, Redis, and modern distributed system patterns. I enjoy solving complex engineering challenges, improving system reliability, and delivering solutions that balance technical excellence with business value.
+
+In my current role in Norway, I work closely with Product Owners, Architects, and business stakeholders to design, enhance, and maintain enterprise platforms. My responsibilities include application modernisation, cloud adoption, CI/CD automation, infrastructure as code, observability, and operational excellence.
+
+I also have hands-on experience integrating AI capabilities using OpenAI and Azure OpenAI services to build intelligent workflows, automation solutions, and conversational experiences within enterprise applications.
+
+
+
+Core Areas:
+
+• C# / .NET
+
+• Microsoft Azure
+
+• REST APIs & Microservices
+
+• Distributed Systems
+
+• Event-Driven Architecture
+
+• Azure DevOps & CI/CD
+
+• Terraform & Infrastructure as Code
+
+• Angular
+
+• Kafka & Messaging Systems
+
+• SQL Server & Redis
+
+• Observability & Production Support
+
+• OpenAI & Azure OpenAI Integrations
+
+
+
+I am passionate about building reliable, scalable, and maintainable software that delivers meaningful business outcomes and creates long-term value for users.
 
 
 # 💻 Tech Stack:
